@@ -1,0 +1,17 @@
+# Arquivos e pastas a serem ignorados no repositório Git para um projeto Python
+
+# Arquivos de byte compilados do Python
+__pycache__/
+
+# Arquivos de configuração específicos do sistema ou editor
+.vscode/
+.idea/
+
+# Arquivo de ambiente virtual (se estiver usando virtualenv)
+venv/
+
+# Arquivo de log
+*.log
+
+# Arquivo com variáveis de ambiente ou chaves secretas
+.env
